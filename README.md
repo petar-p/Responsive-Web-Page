@@ -1,7 +1,7 @@
-# Responsive-Web-Page
+# Responsive Web Page
 
 ##Scope
-Building a responsive webpage using HTML5, CSS3 and jQuery.
+###Building a responsive webpage using HTML5, CSS3 and jQuery.
 
 
 ###Desktop layout
