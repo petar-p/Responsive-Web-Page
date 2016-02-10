@@ -1,8 +1,6 @@
 # Responsive Web Page
 
-##Scope
 ###Building a responsive webpage using HTML5, CSS3 and jQuery.
-
 
 ###Desktop layout
 ![Screen-shot of desktop layout](/screen-shots/desktop-screen-shot.png)
